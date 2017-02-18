@@ -355,7 +355,7 @@ $ which pip
 $ which pip3
 ```
 
-Use which `pip` points to the install path that makes the most sense (e.g. Anaconda for OSX users for some reason does not symlink pip3 to the python3 pip, and instead points to the system version of python3).
+Use `which pip` points to the install path that makes the most sense (e.g. Anaconda for OSX users for some reason does not symlink pip3 to the python3 pip, and instead points to the system version of python3).
 
 Then you'll write:
 
